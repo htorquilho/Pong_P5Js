@@ -3,6 +3,7 @@
 
 Este é um clone simples do clássico jogo Pong, desenvolvido utilizando a biblioteca [P5.js](https://p5js.org/), que facilita a criação de gráficos e interatividade na web com JavaScript.
 
+
 ## 🎯 Funcionalidades
 
 - ✅ Dois jogadores locais (um de cada lado)
@@ -11,12 +12,14 @@ Este é um clone simples do clássico jogo Pong, desenvolvido utilizando a bibli
 - ✅ Contagem de pontos
 - ✅ Reinício automático após cada ponto
 
+
 ## 🛠️ Tecnologias utilizadas
 
 - [P5.js](https://p5js.org/)
 - HTML
 - CSS
 - JavaScript
+
 
 ## 🚀 Como executar o projeto
 
@@ -38,6 +41,7 @@ cd Pong_P5Js
 
 > 💡 Dica: Você também pode utilizar extensões como **Live Server** (VS Code) para rodar o projeto com recarregamento automático.
 
+
 ## 🎮 Controles
 
 | Jogador | Tecla para Cima | Tecla para Baixo |
@@ -45,9 +49,11 @@ cd Pong_P5Js
 | Esquerda| **W**            | **S**             |
 | Direita | **Seta ↑**       | **Seta ↓**        |
 
+
 ## 🤝 Contribuição
 
 Sinta-se livre para abrir issues, enviar pull requests ou sugerir melhorias.
+
 
 ## 📄 Licença
 
